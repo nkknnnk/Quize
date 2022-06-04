@@ -74,3 +74,12 @@ input{
     background-color: #55efc4;
     color: #2d3436;
  }
+@media  screen and (max-width:800px){
+    .inner-div {
+        width: 90vw;
+        background-color: white;
+        padding: 3rem 8rem;
+        border-radius: 1rem;
+        box-shadow: 1rem 1rem 1rem -0.7rem rgba(0, 0, 0, 4);
+    }
+}
