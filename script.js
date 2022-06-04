@@ -5,7 +5,7 @@ const quizDB = [
         b: "Hey Text Markup Language",
         c: "HyperText Markup Language",
         d: "Hypertext Markup Language",
-        ans: "ans4"
+        ans: "ans3"
     },
     {
         question: "Q2: What is the full form of CSS?",
